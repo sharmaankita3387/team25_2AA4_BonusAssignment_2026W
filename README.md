@@ -2,8 +2,6 @@
 
 ## Overview
 
-This project is a proof-of-concept UML-to-Java code generator developed for SFWRENG 2AA4.
-
 The program reads a UML Class Diagram exported from Draw.io (in XML format), parses class definitions (including attributes and methods), and automatically generates corresponding `.java` files.
 
 The goal of this project is to demonstrate model-driven engineering concepts by translating structural UML models into working Java class skeletons.
